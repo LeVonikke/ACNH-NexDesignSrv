@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.pem
+*-secret.txt
+*.log
+.venv/
