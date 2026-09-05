@@ -1,4 +1,4 @@
-# nextendo-acnh-designs
+# ACNH-NexDesignSrv
 
 ![Python](https://img.shields.io/badge/Python-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Private](https://img.shields.io/badge/-private-grey)
 
