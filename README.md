@@ -1,5 +1,7 @@
 # nextendo-acnh-designs
 
+![Python](https://img.shields.io/badge/Python-blue) ![Status](https://img.shields.io/badge/status-ativo-brightgreen) ![Privado](https://img.shields.io/badge/-privado-grey)
+
 Backend privado, auto-hospedado, para o Custom Designs Portal de Animal Crossing: New Horizons
 (3.0.3) rodando via [Ryujinx-Nextendo](https://github.com/NextendoNetwork/Ryujinx-Nextendo).
 Objetivo: parar de ver `MO-0000-0000-0000`/`MA-0000-0000-0000` e conseguir enviar/baixar designs
