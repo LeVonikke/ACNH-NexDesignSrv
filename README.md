@@ -1,6 +1,6 @@
 # ACNH-NexDesignSrv
 
-![Python](https://img.shields.io/badge/Python-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen) ![Private](https://img.shields.io/badge/-private-grey)
+![Python](https://img.shields.io/badge/Python-blue) ![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 Private, self-hosted backend for the Animal Crossing: New Horizons Custom Designs
 Portal (3.0.3), running via
